@@ -60,8 +60,8 @@ Testing was executed in **TestRail** using **Test Runs**, where results were log
 
 ## Repository Structure
 WorkoutPlanner-QA-Portfolio/
-│── README.md # Project overview (this file)
-│── TestCases/ # Markdown files for individual test cases
-│── TestRuns/ # Markdown summaries of test runs
-│ └── Screenshots/ # Screenshot evidence from TestRail
-│── SummaryReports/ # High-level QA reports
+README.md # Project overview (this file)
+- TestCases/ # Markdown files for individual test cases
+- TestRuns/ # Markdown summaries of test runs
+- Screenshots/ # Screenshot evidence from TestRail
+- SummaryReports/ # High-level QA reports
